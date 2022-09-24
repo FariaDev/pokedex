@@ -40,7 +40,7 @@ const renderPokemon = async (pokemon) => {
         searchPokemon = data.id;
     } else {
         pokemonImage.style.display = 'none';
-        pokemonName.innerHTML = 'Não encontrado :c';
+        pokemonName.innerHTML = 'Não encontrado -_-';
         pokemonNumber.innerHTML = '';
 
     }
