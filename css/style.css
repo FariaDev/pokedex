@@ -11,7 +11,7 @@
 
 body {
     text-align: center;
-    background: linear-gradient(to bottom, #ffe53bd8, #ff2525da); /* blue: #6ab7f5 linear-gradient(to bottom, #3d9928, #afff9e); */
+    /* blue: #6ab7f5 linear-gradient(to bottom, #3d9928, #afff9e); */
     min-height: 100vh;
 }
 
@@ -22,14 +22,14 @@ main {
     position: relative;
 }
 
-/* .bg {
+.bg {
     background-image: url('../images/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 
-} */
+} 
 
 .pokedex {
     width: 100%;
